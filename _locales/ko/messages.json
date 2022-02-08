@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Increase volume in tabs or set individual audio volume level for each tab. Accurate volume booster for Chrome"
+   },
+   "name": {
+      "message": "Volume Controller - 볼륨 컨트롤러"
+   },
+   "popup_list_tabs": {
+      "message": "오디오를 재생중인 활성 탭 :"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "현재 오디오가있는 탭이 없습니다."
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Booster"
+   },
+   "title": {
+      "message": "Volume Booster - 볼륨 컨트롤러"
+   }
+}

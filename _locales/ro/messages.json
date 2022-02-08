@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Increase volume in tabs or set individual audio volume level for each tab. Accurate volume booster for Chrome"
+   },
+   "name": {
+      "message": "Volume Controller - Controller volum"
+   },
+   "popup_list_tabs": {
+      "message": "Tab-urile active care redau audio:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "Nu există file cu audio chiar acum"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Booster"
+   },
+   "title": {
+      "message": "Volume Booster - Controller volum"
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "description": {
+      "message": "Increase volume in tabs or set individual audio volume level for each tab. Accurate volume booster for Chrome"
+   },
+   "name": {
+      "message": "Volume Booster"
+   },
+   "popup_list_tabs": {
+      "message": "Active tabs playing audio:"
+   },
+   "popup_list_tabs_no_play": {
+      "message": "There are no tabs with audio right now"
+   },
+   "popup_volume": {
+      "message": "Volume:"
+   },
+   "short_name": {
+      "message": "Volume Booster"
+   },
+   "title": {
+      "message": "Volume Booster"
+   }
+}
